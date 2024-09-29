@@ -5,8 +5,8 @@ package Learn_Spring_Hibernate;
 public class MyApp {
     public static void main(String[] args){
 
-//        BaseballCoach theCoach = new BaseballCoach();
-//        System.out.println(theCoach.getDailyWorkOut());
+        BaseballCoach theCoach = new BaseballCoach();
+        System.out.println(theCoach.getDailyWorkOut());
         //        We have made an implementing class BaseballCoach and used it.Now we have to use better software developer practise.
         //That is use of interfaces.
 //        Coach theCoach = new BaseballCoach();
